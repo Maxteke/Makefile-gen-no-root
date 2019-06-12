@@ -9,4 +9,6 @@ mkdir ~/bin/
 
 cp srcs/makefile-gen.rb ~/bin/makefile-gen
 
+echo 'export PATH=~/bin/:$PATH' >> ~/.zshrc
+
 echo "fill ENV with the help of README"
