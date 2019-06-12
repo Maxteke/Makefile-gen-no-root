@@ -11,4 +11,4 @@ cp srcs/makefile-gen.rb ~/bin/makefile-gen
 
 echo 'export PATH=~/bin/:$PATH' >> ~/.zshrc
 
-echo "all write"
+echo "all write, launch 'source ~/.zshrc'"
